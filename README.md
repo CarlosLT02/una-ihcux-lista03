@@ -2,5 +2,5 @@
 
 Este projeto aplica a 1ª Heurística de Nielsen (Visibilidade do Status do Sistema) que diz que o software deve sempre manter o usuário informado sobre o que está acontecendo, através de feedback apropriado e em tempo razoável.
 
-## :camera_with_flash: Evidência de Execução
+## :📸: Evidência de Execução
 ![Print do terminal rodando o projeto](./Scanner.png)
