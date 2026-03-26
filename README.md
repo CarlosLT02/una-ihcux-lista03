@@ -1,16 +1,6 @@
-# 🚀 Minha Primeira Experiência com .NET CLI
+# :rocket: 1ª Heurística de NielsenI
 
-Nesta missão, deixei de ser apenas um usuário de pastas e me tornei um desenvolvedor que fala a língua do SDK.
+Este projeto aplica a 1ª Heurística de Nielsen (Visibilidade do Status do Sistema) que diz que o software deve sempre manter o usuário informado sobre o que está acontecendo, através de feedback apropriado e em tempo razoável.
 
-## 🛠️ Comandos de Construção Utilizados
-- `dotnet new console`: Para criar a estrutura base do C#.
-- `dotnet build`: Para transformar meu código em algo que o PC entende.
-- `dotnet run`: Para ver a mágica acontecer.
-
-## 📦 Estrutura Gerada
-Arquivos que o .NET criou para mim:
-1. `Program.cs`: Onde fica o código.
-2. `SistemaExpert.csproj`: As configurações do meu projeto.
-
-## 📸 Evidência de Execução
+## :camera_with_flash: Evidência de Execução
 ![Print do terminal rodando o projeto](./Scanner.png)
